@@ -1,207 +1,177 @@
-```
-╔═════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                     ║
-║  ██╗   ██╗██╗██████╗ ███████╗    ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗ ║
-║  ██║   ██║██║██╔══██╗██╔════╝    ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝ ║
-║  ██║   ██║██║██████╔╝█████╗      ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗ ║
-║  ╚██╗ ██╔╝██║██╔══██╗██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║ ║
-║   ╚████╔╝ ██║██████╔╝███████╗    ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║ ║
-║    ╚═══╝  ╚═╝╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝ ║
-║                                                                                     ║
-║              ▀█▀ █▄█ █▀▀   █▀▀ █ █▄█ █▄█ █▀█ █▀▀   █▀█ █▀▀ █▀▀ █▄█ █▀▀              ║
-║               █  █▀█ █▄▄   █▀▀ █ █▀█ █▀█ █▀▄ █▄▄   ▀▀█ █▄▄ █▄▄ █▀█ █▄▄              ║
-║                                                                                     ║
-║        🕹️ LEAD DEVOPS ENGINEER | AWS SPECIALIST | CI/CONTAINER/K8S WIZARD 🕹️        ║
-║                              11+ years xp | Lv. ထ                                  ║
-║                                                                                     ║
-╚═════════════════════════════════════════════════════════════════════════════════════╝
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="100" alt="DevOps" />
 
-          ┌─────────────────────────────────────────────────┐
-          │  ╔══╗ ╔══╗ ╔══╗ ╔══╗ ╔══╗ ╔══╗ ╔══╗ ╔══╗ ╔══╗   │
-          │  ║🚀║ ║⚙️║ ║☁️║ ║🐳║ ║📊║ ║🔐║ ║⚡ ║ ║🎯║ ║💻║  │
-          │  ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝   │
-          └─────────────────────────────────────────────────┘
-```
+  # Hey, I'm Anatolii 👋
 
-## 🎮 Player Stats
-```
-┌─ TECH STACK ───────────────── HP: ████████████████████ ─────┐
-│ ⭐ AWS                            ████████████████████  MAX │
-│ ⭐ Kubernetes                     ██████████████████    95% │
-│ ⭐ Python                         ████████████████████  MAX │
-│ ⭐ Terraform                      ███████████████████   98% │
-│ ⭐ CI/CD                          ████████████████████  MAX │
-│ ⭐ COntainers                     ████████████████████  MAX │
-│ ⭐ Monitoring                     ████████████████████  MAX │
-└─────────────────────────────────────────--──────────────────┘
-```
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Lead+DevOps+Engineer;Cloud+Infrastructure+Architect;Automation+Enthusiast;11%2B+Years+of+Experience" alt="Typing SVG" />
 
-## 🛠️ Inventory & Skills
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="DevOps Animation" />
+</div>
 
-### ☁️ **Cloud Arsenal**
-```
-[AWS]              █████████████████████ 100%
-├── EC2, RDS, DynamoDB, Lambda, S3
-├── CloudFormation, IAM, SNS, CloudWatch
-├── VPC, Route53, ALB/NLB, Auto Scaling
-└── EKS, ECR, Systems Manager, Secrets Manager
+<br/>
 
-[GCP]              ██████████░░░░░░░░░░░  50%
-├── Compute Engine, GKE, Cloud Storage
-└── Cloud Functions, BigQuery
+> **Lead DevOps Engineer** crafting cloud infrastructure that scales
+> 11+ years turning chaos into automation 🚀
 
-[Multi-Cloud]      ████████████████████  95%
-├── Digital Ocean, Proxmox
-└── Hybrid cloud strategies
-```
+## 🎯 What I Do
 
-### 🔧 **DevOps Toolkit**
-```
-[IaC]              ███████████████████  MAX
-├── Terraform      ███████████████████
-├── Ansible        ███████████████████
-└── CloudFormation ██████████████
+I build resilient cloud systems and automate everything that shouldn't be done manually. Currently focused on container orchestration, MLOps pipelines, and making infrastructure boring (in a good way).
 
-[Containers]       ████████████████████  MAX
-├── Docker         ████████████████████
-├── Kubernetes     ███████████████████
-├── Helm           █████████████████
-└── Istio          ██████████████
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" alt="Developer" />
+</div>
 
-[CI/CD]            ████████████████████  MAX
-├── Jenkins        ████████████████████
-├── GitLab CI      ████████████████████
-├── GitHub Actions ████████████████████
-└── Bitbucket CI   ████████████████████
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### DevOps Pipeline
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+## 🔄 DevOps Workflow
+
+### 📋 Pipeline Architecture
+
+```mermaid
+graph LR
+    A[🧑‍💻 Code] --> B[🔧 Build]
+    B --> C[🧪 Test]
+    C --> D[📦 Package]
+    D --> E[🚀 Deploy]
+    E --> F[📊 Monitor]
+    F --> G[📈 Optimize]
+    G --> A
 ```
 
-### 📊 **Monitoring & Observability**
+### 🎯 Core DevOps Practices
+
+<details>
+<summary><b>Infrastructure as Code (IaC)</b></summary>
+
+- **Terraform** for multi-cloud provisioning
+- **Ansible** for configuration management
+- **CloudFormation** for AWS-native deployments
+- Git-based version control for all infrastructure
+</details>
+
+<details>
+<summary><b>CI/CD Pipeline</b></summary>
+
+```yaml
+Pipeline:
+  - Code Commit:    Git hooks, branch protection
+  - Build Stage:    Docker multi-stage builds, dependency caching
+  - Test Suite:     Unit tests, integration tests, security scans
+  - Quality Gate:   SonarQube analysis, coverage checks
+  - Packaging:      Container registry, artifact management
+  - Deployment:     Blue-green, canary, rolling updates
+  - Monitoring:     Real-time metrics, log aggregation
 ```
-[Logs]             ████████████████████  MAX
-├── ELK Stack      ████████████████████
-├── Fluentd        ███████████████████
-└── Loki           ███████████████
+</details>
 
-[Metrics]          ████████████████████  MAX
-├── Prometheus     ███████████████████
-├── Grafana        ████████████████████
-├── InfluxDB       ██████████████████
-├── Zabbix         ██████████████████
-└── New Relic      ██████████████████
+<details>
+<summary><b>Container Orchestration</b></summary>
 
-[Alerting]         ████████████████████  MAX
-├── AlertManager   ██████████████████
-├── PagerDuty      ██████████████████
-├── MS Teams       ████████████████████
-└── Slack          ████████████████████
-```
+- **Development**: Docker Compose for local environments
+- **Staging**: Kubernetes with Helm charts
+- **Production**: EKS/GKE with GitOps (ArgoCD/Flux)
+- Service mesh with Istio for microservices
+</details>
 
-### 💻 **Programming Languages**
-```
-[Core]             ████████████████████  MAX
-├── Python         ████████████████████
-├── Bash           ████████████████████
-├── YAML           ████████████████████
-└── HCL            ███████████████████
+<details>
+<summary><b>Monitoring Stack</b></summary>
 
-[Additional]
-├── Groovy         ██████████████████
-├── JavaScript     ████████████████
-├── Go             ██████████
-└── C/C++          █████████
-```
+| Component | Tools |
+|-----------|-------|
+| 📊 **Metrics** | Prometheus, Grafana |
+| 📝 **Logs** | ELK Stack, Loki |
+| 🔍 **Traces** | Jaeger, Zipkin |
+| 🚨 **Alerts** | AlertManager, PagerDuty |
+| 📈 **APM** | New Relic, DataDog |
+</details>
 
-### 🗄️ **Database Systems**
-```
-[SQL]              ████████████████████  MAX
-├── PostgreSQL     ████████████████████
-├── MySQL          ████████████████████
-└── MariaDB        ████████████████████
+<details>
+<summary><b>Security (DevSecOps)</b></summary>
 
-[NoSQL]            ████████████████████  MAX
-├── MongoDB        ██████████████████
-├── Redis          ████████████████████
-└── DynamoDB       ██████████████████
-```
+- **Code Scanning**: SonarQube, Snyk
+- **Container Security**: Trivy, Aqua Security
+- **Secrets Management**: HashiCorp Vault, AWS Secrets Manager
+- **Compliance**: BlackDuck, OWASP dependency checks
+</details>
 
-### 🔐 **Security & Quality**
-```
-[DevSecOps]        ████████████████████  MAX
-├── SonarQube      ████████████████████
-├── BlackDuck      ██████████████████
-├── Trivy          ███████████████████
-└── OWASP ZAP      █████████████████
+## 🔬 Current Projects
 
-[Secrets]          ███████████████████   MAX
-├── Vault          ██████████████████
-├── AWS SM         ███████████
-└── K8s Secrets    ██████████████
-```
+- **K8s AI/ML Cluster** - MLOps pipelines for model training and deployment
+- **Everything as Code** - Full IaC migration with Terraform/Ansible
+- **Container Migration** - Legacy app containerization
+- **Smart Home DevOps** - IoT monitoring with Prometheus
 
-## 🎯 Current Quests
+## 🎓 Certifications & Learning
 
-### 🏠 **Home Lab Adventures**
-- **K8s AI/ML Cluster**: Training models, MLOps experimentation
-- **Cloudbees/Jenkins CI**: Build Full-cycle pipeline
-- **Move Container**: Migrate Everything in containers
-- **Infrastructure Automation**: Everything-as-Code approach
-- **IoT Integration**: Smart home monitoring & automation
+**Currently Pursuing:**
+- 🎯 AWS Solutions Architect Professional
+- 🎯 Certified Kubernetes Administrator (CKA)
+- 🎯 MLOps Specialization
 
-### 📚 **Skill Trees (In Progress)**
-```
-[AWS Certifications]    ██████████░░░░░░░░░░  50%
-├── Solutions Architect Professional (Target)
-├── DevOps Engineer Professional
-└── Security Specialty
+## 💡 Philosophy
 
-[Kubernetes]           ████████████░░░░░░░░  65%
-├── CKA (Certified Kubernetes Administrator)
-└── CKAD (Application Developer)
-
-[AI/ML Ops]            ███████░░░░░░░░░░░░░  35%
-├── MLflow, Kubeflow
-├── TensorFlow Serving
-└── Model deployment strategies
+```python
+def my_devops_philosophy():
+    while True:
+        if manual_process.exists():
+            automate(it)
+        elif already_automated():
+            monitor(it)
+        else:
+            scale(it)
+        sleep(0)  # Never stop improving
 ```
 
-## 🔗 Connect & Collaborate
-```
-┌─ SOCIAL LINKS ──────────────────────────────────────────┐
-│                                                         │
-│  🐙 GitHub:   https://github.com/VibeDevOpsing          │
-│  💼 LinkedIn: https://linkedin.com/in/anatoliidubyna    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+## 🤝 Let's Connect
 
-## 🎮 Looking for Co-op Players
-```
-🤝 Open Source Contributions
-🔬 K8s + AI/ML Experiments
-🛠️ DevOps Automation Projects
-🚀 Cloud-Native Architecture
-📊 Infrastructure Optimization
-```
+I'm always interested in discussing:
+- 🛠 Open source DevOps tools
+- ☸️ Kubernetes optimization
+- 💰 Cloud cost optimization
+- 🤖 AI/ML infrastructure
 
----------------------------------------------------------------------------------------
+<div align="center">
 
-```
-                    ___====-_  _-====___
-              _--^^^#####//      \\#####^^^--_
-          _-^##########// (    ) \\##########^-_
-          -############//  |\\__/|  \\############-
-        _/############//   (@::@)   \\############\_
-      /#############((     \\//     ))#############\
-      -###############\\    (oo)    //###############-
-      -#################\\  / VV \  //#################-
-      -###################\\/      \//###################-
-      _#/|##########/\######(   /\   )######/\##########|\#_
-      |/ |#/\#/\#/\/  \#/\##\ |  |  | /##/\#/  \/\#/\#/\#| \|
-      '  |/  V  V  '   V  \#\| |  | |/#/  V   '  V  V  \|  '
-        '   '  '      '   / | |  | | \   '      '  '   '
-                          (  | |  | |  )
-                        __\ | |  | | /__
-                        (vvv(VVV)(VVV)vvv)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VibeDevOpsing)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anatoliidubyna)
 
-        "Automate Everything, Monitor Everything, Scale Everything"
-```
+</div>
+
+---
+
+<div align="center">
+  <i>"The best infrastructure is the one you don't notice"</i>
+
+  ![](https://komarev.com/ghpvc/?username=VibeDevOpsing&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![](https://img.shields.io/github/followers/VibeDevOpsing?label=Followers&style=flat-square&color=blue)
+</div>
