@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="100" alt="DevOps" />
+  <img src="https://user-images.githubusercontent.com/194400/28494977-ce74a632-6f36-11e7-9f86-f48abde49479.png" width="100" alt="DevOps" />
 
   # Hey, I'm Anatolii 👋
 
