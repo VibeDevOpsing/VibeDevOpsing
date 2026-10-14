@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# ...except the profile README
+!README.md
+
+# Keep this file tracked so the rules apply on every clone
+!.gitignore
